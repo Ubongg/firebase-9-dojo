@@ -36,7 +36,7 @@ initializeApp(firebaseConfig);
 // init services
 const db = getFirestore();
 
-//auth
+// auth
 const auth = getAuth();
 
 // collection ref
